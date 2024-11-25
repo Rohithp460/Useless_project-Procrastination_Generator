@@ -9,6 +9,7 @@
 - **Team Members:**
   - **Team Lead:** Arjun J Krishna - Cochin University College of Engineering, Kuttanad
   - **Member 2:** Rohith P - Cochin University College of Engineering, Kuttanad
+  - **SITE:**https://serene-tiramisu-ff3c73.netlify.app/
 
 ---
 
